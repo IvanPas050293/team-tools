@@ -1,0 +1,8 @@
+{
+  "name": "team-tools",
+  "plugins": [
+    {"name" :  "team-kit",
+    "source" : "./team-kit",
+    "description": "Набор командных skill"}
+  ]
+}
