@@ -1,5 +1,9 @@
 {
   "name": "team-tools",
+  "owner": {
+    "name": "IvanPas050293"
+  },
+  "description": "Набор инструментов для командной работы",
   "plugins": [
     {"name" :  "team-kit",
     "source" : "./team-kit",
